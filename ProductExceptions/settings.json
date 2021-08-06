@@ -1,0 +1,6 @@
+﻿{
+  "filename": "productExceptions.json",
+  "encode": "UTF-8",
+  "listName": "odooToCRM",
+  "activeExceptions":  true
+}
